@@ -10,5 +10,9 @@
 - 📫 How to reach me: poudel0sandesh@gmail.com
 - 😄 Pronouns: He/Him
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poudel0)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=poudel0&theme=elegant)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

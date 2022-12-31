@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poudel0&show_icons=true&theme=cobalt)
 
 
 

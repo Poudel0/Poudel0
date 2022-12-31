@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Poudel0/Poudel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Solidity and JavaScript
+- 🌱 I’m currently learning Blockchain and Web3
+- 👯 I’m looking to collaborate on Web3 Projects and Data analysis
+- 🤔 I’m looking for help with Implementation and Deployment of Smart Contract
+- 💬 Ask me about Python-Pandas,Matplotlib Solidity- Basiscs
+- 📫 How to reach me: poudel0sandesh@gmail.com
+- 😄 Pronouns: He/Him
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=poudel0)](https://github.com/ashutosh00710/github-readme-activity-graph)
+

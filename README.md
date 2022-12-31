@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Solidity and JavaScript
 - 🌱 I’m currently learning Blockchain and Web3
-- 👯 I’m looking to collaborate on Web3 Projects and Data analysis
+- 🤝 I’m looking to collaborate on Web3 Projects and Data analysis
 - 🤔 I’m looking for help with Implementation and Deployment of Smart Contract
 - 💬 Ask me about Python-Pandas,Matplotlib Solidity- Basiscs
 - 📫 How to reach me: poudel0sandesh@gmail.com

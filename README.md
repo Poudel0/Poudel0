@@ -28,9 +28,9 @@
 
   <p/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poudel0&show_icons=true&theme=github-compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poudel0&show_icons=true&theme=cobalt)
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=poudel0&theme=elegant)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=poudel0&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

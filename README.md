@@ -1,13 +1,3 @@
-### Hi there 👋
-
-
-
-- 🔭 Currently working on Solidity and JavaScript
-- 🌱 Learning Blockchain and Web3
-- 🤝 I’m looking to collaborate on Web3 Projects and Backend (Node)
-- 💬 Ask me about Blockchain, Solidity, DeFi
-- 📫 How to reach me: poudel0sandesh@gmail.com
-- He/Him
 
 ### Programming Languages
 <p>
